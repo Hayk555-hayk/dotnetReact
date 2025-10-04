@@ -13,3 +13,5 @@ server/appsettings.Development.json
 *.user
 *.swp
 .DS_Store
+
+.env
